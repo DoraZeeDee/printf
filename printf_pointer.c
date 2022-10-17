@@ -1,3 +1,5 @@
+#include "main.h"
+#include <stdarg.h>
 
 /**
  * printf_pointer - prints an hexadecimal number.
